@@ -11,7 +11,7 @@ Do language models understand time?🧐 In the kitchen arena🧑‍🍳, where b
 >
 > Please let us know if you find out a mistake or have any suggestions by e-mail: Xi.Ding1@anu.edu.au
 >
-> If you find our paper useful for your research, please cite the following:
+> If you find our work useful for your research, please cite the following:
 
 ```
 @article{ding2024language,

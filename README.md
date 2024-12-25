@@ -45,7 +45,6 @@ Do language models understand time?🧐 In the kitchen arena🧑‍🍳, where b
 | Model          | Venue        | Other modality encoders               | Interaction / Fusion mechanism                    | Description                                     |
 |----------------|--------------|---------------------------------------|--------------------------------------------------|-------------------------------------------------|
 | mPLUG-2        | ICML 2023    | Text: BERT                           | Universal layers & cross-attention modules       | Modularized multi-modal foundation model.      |
-
 | Vid2Seq        | CVPR 2023    | Text: T5-Base                        | Cross-modal attention                             | Sequence-to-sequence video-language model.     |
 | Video-LLaMA    | EMNLP 2023   | Text: Vicuna, Audio: ImageBind       | Aligned via Q-Formers for video and audio         | Instruction-tuned multimodal model.           |
 | ChatVideo      | arXiv 2023   | Text: ChatGPT, Audio: Whisper        | Tracklet-centric with ChatGPT reasoning           | Chat-based video understanding system.         |

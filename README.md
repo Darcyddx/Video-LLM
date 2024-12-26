@@ -342,6 +342,7 @@ Performance comparison of visual encoders. (Left): Image classification accuracy
 </details>
 
 ![image](./images/sum.png)
+
 The distributions of interaction/fusion mechanisms and data modalities in 66 closely related video-LLMs from January 2024 to December 2024. (Left): Fusion mechanisms are classified into five categories: Cross-attention (e.g., crossattention modules, gated cross-attention), Projection layers (e.g., linear projection, MLP projection), Q-Former-based methods (e.g., Q-Former aligns multi-modal embeddings, Trainable Q-Former), Motion/Temporal-Specific mechanisms (e.g., temporal samplers, scene-level sequential alignment), and Other Methods (e.g., Tracklet-centric, Perceiver Resampler, MQ-Former). (Right): The distribution of data modalities used in these video-LLMs, with text modalities appearing across all models. Note that a model may use multiple fusion methods and/or data modalities.
 
 

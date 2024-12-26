@@ -7,7 +7,7 @@ Do language models understand time?🧐 In the kitchen arena🧑‍🍳, where b
 >
 > 👋👋👋 A collection of papers and resources related to Large Language Models in video domain🎞️. 
 >
-> More details please refer to our [paper](https://arxiv.org/abs/2412.13845). 
+> More details please refer to our [paper](https://arxiv.org/abs/2412.13845)📃. 
 >
 > Please let us know if you find out a mistake or have any suggestions by e-mail: Xi.Ding1@anu.edu.au
 >
@@ -34,6 +34,7 @@ Do language models understand time?🧐 In the kitchen arena🧑‍🍳, where b
 Performance comparison of visual encoders. (Left): Image classification accuracy for various image encoders pretrained and fine-tuned on the ImageNet-1K dataset. (Right): Action recognition accuracy for different video encoders pretrained and fine-tuned on the Kinetics-400 and Something-Something V2 datasets.
 
 ## 📸 Models with Image Encoder
+> ✨ The tables below present summaries of the latest multimodal video-LLMs with image encoders and their interaction and fusion mechanisms.
 
 ### Normalizer-Free ResNet
 
@@ -134,6 +135,7 @@ Performance comparison of visual encoders. (Left): Image classification accuracy
 </details>
 
 ## 🎥 Models with Video Encoder
+> ✨ The tables below present summaries of the latest multimodal video-LLMs with video encoders and their interaction and fusion mechanisms.
 
 ### Traditional (e.g., I3D, SlowFast)
 
@@ -226,12 +228,12 @@ Performance comparison of visual encoders. (Left): Image classification accuracy
 | [ChatVideo](https://arxiv.org/abs/2304.14407) | arXiv 2023 | Text: ChatGPT, Audio: e.g., Whisper | Tracklet-centric with ChatGPT reasoning | Chat-based video understanding system. | Coming soon |
 </details>
 
+![image](./images/sum.png)
+
+The distributions of interaction/fusion mechanisms and data modalities in 66 closely related video-LLMs from January 2024 to December 2024. (Left): Fusion mechanisms are classified into five categories: Cross-attention (e.g., crossattention modules, gated cross-attention), Projection layers (e.g., linear projection, MLP projection), Q-Former-based methods (e.g., Q-Former aligns multi-modal embeddings, Trainable Q-Former), Motion/Temporal-Specific mechanisms (e.g., temporal samplers, scene-level sequential alignment), and Other Methods (e.g., Tracklet-centric, Perceiver Resampler, MQ-Former). (Right): The distribution of data modalities used in these video-LLMs, with text modalities appearing across all models. Note that a model may use multiple fusion methods and/or data modalities.
 
 ## 💻 Datasets
-![image](./images/com_1.png)
-![image](./images/com_2.png)
-
-
+> ✨The tables below provide a comprehensive overview of video datasets across various tasks.
 ### Action Recognition
 
 <details>
@@ -341,9 +343,10 @@ Performance comparison of visual encoders. (Left): Image classification accuracy
 
 </details>
 
-![image](./images/sum.png)
-
-The distributions of interaction/fusion mechanisms and data modalities in 66 closely related video-LLMs from January 2024 to December 2024. (Left): Fusion mechanisms are classified into five categories: Cross-attention (e.g., crossattention modules, gated cross-attention), Projection layers (e.g., linear projection, MLP projection), Q-Former-based methods (e.g., Q-Former aligns multi-modal embeddings, Trainable Q-Former), Motion/Temporal-Specific mechanisms (e.g., temporal samplers, scene-level sequential alignment), and Other Methods (e.g., Tracklet-centric, Perceiver Resampler, MQ-Former). (Right): The distribution of data modalities used in these video-LLMs, with text modalities appearing across all models. Note that a model may use multiple fusion methods and/or data modalities.
-
-
+![image](./images/com_1.png)
+Left: Performance (accuracy) comparison of recent videoLLMs on the Video-MME benchmark. Right: Performance comparison of recent video-LLMs on video QA benchmarks. Models using pretrained video encoders (e.g., Video-LLaVA and VideoChat2) are marked with squares, while models using pretrained image encoders are represented by circles.
+ 
+![image](./images/com_2.png)
+Performance comparison of recent video-LLMs on
+(a) video retrieval and (b) video captioning benchmarks.
 

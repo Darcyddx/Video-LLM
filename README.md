@@ -5,7 +5,7 @@
 ![image](./images/cover.png)
 Do language models understand time?🧐 In the kitchen arena🧑‍🍳, where burritos are rolled🌯, rice waits patiently🍚, and sauce steals the spotlight, LLMs try their best to keep up. Captions flow like a recipe—precise and tempting—but can they truly tell the difference between prepping, cooking, and eating? After all, in cooking, timing isn’t just everything—it’s the secret sauce!🥳🥳🥳
 >
-> 👋👋👋 A collection of papers and resources related to Large Language Models in video domain. 
+> 👋👋👋 A collection of papers and resources related to Large Language Models in video domain🎞️. 
 >
 > More details please refer to our [paper](https://arxiv.org/abs/2412.13845). 
 >
@@ -23,6 +23,15 @@ Do language models understand time?🧐 In the kitchen arena🧑‍🍳, where b
 ```
 
 ---
+
+## 🚀 News
+- \[26/12/2024\] Release GitHub for our paper.
+- \[18/12/2024\] Release our paper in arXiv.
+
+
+---
+![image](./images/comparisonEncoders.png)
+Performance comparison of visual encoders. (Left): Image classification accuracy for various image encoders pretrained and fine-tuned on the ImageNet-1K dataset. (Right): Action recognition accuracy for different video encoders pretrained and fine-tuned on the Kinetics-400 and Something-Something V2 datasets.
 
 ## 📸 Models with Image Encoder
 
@@ -219,6 +228,9 @@ Do language models understand time?🧐 In the kitchen arena🧑‍🍳, where b
 
 
 ## 💻 Datasets
+![image](./images/com_1.png)
+![image](./images/com_2.png)
+
 
 ### Action Recognition
 
@@ -328,6 +340,10 @@ Do language models understand time?🧐 In the kitchen arena🧑‍🍳, where b
 | [Video-MME](https://github.com/BradyFU/Video-MME) | 2024 | YouTube | 900 | Video+Text+Audio | 1017.9 | Temporal ranges via certificate length | Comprehensive evaluation benchmark across many domains |
 
 </details>
+
+![image](./images/sum.png)
+The distributions of interaction/fusion mechanisms and data modalities in 66 closely related video-LLMs from January 2024 to December 2024. (Left): Fusion mechanisms
+are classified into five categories: Cross-attention (e.g., crossattention modules, gated cross-attention), Projection layers (e.g., linear projection, MLP projection), Q-Former-based methods (e.g., Q-Former aligns multi-modal embeddings, Trainable Q-Former), Motion/Temporal-Specific mechanisms (e.g., temporal samplers, scene-level sequential alignment), and Other Methods (e.g., Tracklet-centric, Perceiver Resampler, MQ-Former). (Right): The distribution of data modalities used in these video-LLMs, with text modalities appearing across all models. Note that a model may use multiple fusion methods and/or data modalities.
 
 
 

@@ -30,7 +30,7 @@ If you find our work useful for your research, please cite the following paper:
 - \[26/12/2024\] 🎁The GitHub repository for our paper has been released.
 - \[19/12/2024\] 🎈Our paper has been published on arXiv.
 
-## Table of Contents
+## 🔦 Table of Contents
 
 - [Video-LLM](#video-llm)
   - [🔥🔥🔥 Do Language Models Understand Time?](#-do-language-models-understand-time)

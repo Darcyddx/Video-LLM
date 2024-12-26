@@ -25,8 +25,8 @@ Do language models understand time?🧐 In the kitchen arena🧑‍🍳, where b
 ---
 
 ## 🚀 News
-- \[26/12/2024\] Release GitHub for our paper🎁.
-- \[19/12/2024\] Release our paper in arXiv🎈.
+- \[26/12/2024\] 🎁The GitHub repository for our paper has been released.
+- \[19/12/2024\] 🎈Our paper has been published on arXiv.
 
 
 ---

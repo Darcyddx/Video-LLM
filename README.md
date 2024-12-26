@@ -10,10 +10,12 @@ Do language models understand time?🧐 In the kitchen arena🧑‍🍳, where b
 > More details please refer to our [paper](https://arxiv.org/abs/2412.13845)📃. 
 >
 > Please let us know if you find out a mistake or have any suggestions by e-mail: Xi.Ding1@anu.edu.au
->
-> If you find our work useful for your research, please cite the following:
 
-```
+### 📑 Citation
+
+If you find our survey useful for your research, please cite the following paper:
+
+```bibtex
 @article{ding2024language,
   title={Do Language Models Understand Time?},
   author={Ding, Xi and Wang, Lei},
@@ -28,6 +30,36 @@ Do language models understand time?🧐 In the kitchen arena🧑‍🍳, where b
 - \[26/12/2024\] 🎁The GitHub repository for our paper has been released.
 - \[19/12/2024\] 🎈Our paper has been published on arXiv.
 
+## Table of Contents
+
+- [Video-LLM](#video-llm)
+  - [🔥🔥🔥 Do Language Models Understand Time?](#-do-language-models-understand-time)
+  - [📑 Citation](#-citation)
+  - [🚀 News](#-news)
+  - [📸 Models with Image Encoder](#-models-with-image-encoder)
+    - [Normalizer-Free ResNet](#normalizer-free-resnet)
+    - [CLIP ViT](#clip-vit)
+    - [EVA-CLIP ViT](#eva-clip-vit)
+    - [BLIP-2 ViT](#blip-2-vit)
+    - [SigLIP](#siglip)
+    - [Oryx ViT](#oryx-vit)
+  - [🎥 Models with Video Encoder](#-models-with-video-encoder)
+    - [Traditional (e.g., I3D, SlowFast)](#traditional-eg-i3d-slowfast)
+    - [TimeSformer](#timesformer)
+    - [VideoSwin](#videoswin)
+    - [UMT](#umt)
+    - [LanguageBind](#languagebind)
+    - [VideoMAE V2](#videomae-v2)
+    - [InternVL](#internvl)
+    - [InternVideo/InternVideo2](#internvideointernvideo2)
+  - [💻 Datasets](#-datasets)
+    - [Action Recognition](#action-recognition)
+    - [Video QA](#video-qa)
+    - [Video Captioning](#video-captioning)
+    - [Video Retrieval](#video-retrieval)
+    - [Anomaly Detection](#anomaly-detection)
+    - [Multimodal Video Tasks](#multimodal-video-tasks)
+  - [❤️‍🔥❤️‍🔥❤️‍🔥 Contribution](#️‍🔥️‍🔥️‍🔥-contribution)
 
 ---
 ![image](./images/comparisonEncoders.png)
@@ -349,4 +381,7 @@ Left: Performance (accuracy) comparison of recent videoLLMs on the Video-MME ben
 ![image](./images/com_2.png)
 Performance comparison of recent video-LLMs on
 (a) video retrieval and (b) video captioning benchmarks.
+
+## ❤️‍🔥❤️‍🔥❤️‍🔥 Contribution
+We warmly invite everyone to contribute to this repository and help enhance its quality and scope. Feel free to submit pull requests to add new papers, projects, or other useful resources, as well as to correct any errors you discover. To ensure consistency, please format your pull requests using our tables' structures. We greatly appreciate your valuable contributions and support!
 

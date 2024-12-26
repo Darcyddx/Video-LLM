@@ -13,7 +13,7 @@ Do language models understand time?🧐 In the kitchen arena🧑‍🍳, where b
 
 ### 📑 Citation
 
-If you find our survey useful for your research, please cite the following paper:
+If you find our work useful for your research, please cite the following paper:
 
 ```bibtex
 @article{ding2024language,

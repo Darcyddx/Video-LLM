@@ -235,7 +235,7 @@ Performance comparison of visual encoders. (Left): Image classification accuracy
 ### Action Recognition
 
 <details>
-<summary>Click to expand Table</summary>
+<summary>Click to expand Table 15</summary>
 
 | Dataset | Year | Source | # Videos | Modality | Avg. length (s) | Temporal annotation | Description |
 |---------|------|--------|----------|----------|-----------------|---------------------|-------------|
@@ -258,7 +258,7 @@ Performance comparison of visual encoders. (Left): Image classification accuracy
 ### Video QA
 
 <details>
-<summary>Click to expand Table</summary>
+<summary>Click to expand Table 16</summary>
 
 | Dataset | Year | Source | # Videos | Modality | Avg. length (s) | Temporal annotation | Description |
 |---------|------|--------|----------|----------|-----------------|---------------------|-------------|
@@ -280,7 +280,7 @@ Performance comparison of visual encoders. (Left): Image classification accuracy
 ### Video Captioning
 
 <details>
-<summary>Click to expand Table</summary>
+<summary>Click to expand Table 17</summary>
 
 | Dataset | Year | Source | # Videos | Modality | Avg. length (s) | Temporal annotation | Description |
 |---------|------|--------|----------|----------|-----------------|---------------------|-------------|
@@ -297,7 +297,7 @@ Performance comparison of visual encoders. (Left): Image classification accuracy
 ### Video Retrieval
 
 <details>
-<summary>Click to expand Table</summary>
+<summary>Click to expand Table 18</summary>
 
 | Dataset | Year | Source | # Videos | Modality | Avg. length (s) | Temporal annotation | Description |
 |---------|------|--------|----------|----------|-----------------|---------------------|-------------|
@@ -314,7 +314,7 @@ Performance comparison of visual encoders. (Left): Image classification accuracy
 ### Anomaly Detection
 
 <details>
-<summary>Click to expand Table</summary>
+<summary>Click to expand Table 19</summary>
 
 | Dataset | Year | Source | # Videos | Modality | Avg. length (s) | Temporal annotation | Description |
 |---------|------|--------|----------|----------|-----------------|---------------------|-------------|
@@ -332,7 +332,7 @@ Performance comparison of visual encoders. (Left): Image classification accuracy
 ### Multimodal Video Tasks
 
 <details>
-<summary>Click to expand Table</summary>
+<summary>Click to expand Table 20</summary>
 
 | Dataset | Year | Source | # Videos | Modality | Avg. length (s) | Temporal annotation | Description |
 |---------|------|--------|----------|----------|-----------------|---------------------|-------------|

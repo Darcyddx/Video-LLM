@@ -7,7 +7,7 @@ Do language models understand time?🧐 In the kitchen arena🧑‍🍳, where b
 >
 > 👋👋👋 A collection of papers and resources related to Large Language Models in video domain🎞️. 
 >
-> More details please refer to our [paper](https://arxiv.org/abs/2412.13845)📃. 
+> 📃 More details please refer to our [paper](https://arxiv.org/abs/2412.13845). 
 >
 > Please let us know if you find out a mistake or have any suggestions by e-mail: Xi.Ding1@anu.edu.au
 

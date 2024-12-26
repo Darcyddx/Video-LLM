@@ -9,7 +9,7 @@ Do language models understand time?🧐 In the kitchen arena🧑‍🍳, where b
 >
 > 📌 More details please refer to our [paper](https://arxiv.org/abs/2412.13845). 
 >
-> Please let us know if you find out a mistake or have any suggestions by e-mail: Xi.Ding1@anu.edu.au
+> 🛠️ Please let us know if you find out a mistake or have any suggestions by e-mail: Xi.Ding1@anu.edu.au
 
 ### 📑 Citation
 

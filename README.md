@@ -389,5 +389,5 @@ Performance comparison of recent video-LLMs on
 (a) video retrieval and (b) video captioning benchmarks.
 
 ## ❤️‍🔥❤️‍🔥❤️‍🔥 Contribution
-We warmly invite everyone to contribute to this repository and help enhance its quality and scope. Feel free to submit pull requests to add new papers, projects, or other useful resources, as well as to correct any errors you discover. To ensure consistency, please format your pull requests using our tables' structures. We greatly appreciate your valuable contributions and support!
+We warmly invite everyone to contribute to this repository and help enhance its quality and scope. Feel free to submit pull requests to add new methods, datasets or other useful resources, as well as to correct any errors you discover. To ensure consistency, please format your pull requests using our tables' structures. We greatly appreciate your valuable contributions and support!
 

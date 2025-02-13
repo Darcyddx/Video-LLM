@@ -33,8 +33,8 @@ series = {WWW '25 Companion}
 ---
 
 ## 🚀 News
-- \[27/01/2025\] 🎈Our paper has been accepted as an oral presentation at the Companion Proceedings of The Web Conference 2025 (WWW 2025)
-- \[27/12/2024\] 🎁The GitHub repository for our paper has been released.
+- \[10/02/2025\] 🎁 The GitHub repository for our paper has been released.
+- \[27/01/2025\] 🎈 Our paper has been accepted as an oral presentation at the Companion Proceedings of The Web Conference 2025 (WWW 2025)
 
 ## 🔦 Table of Contents
 

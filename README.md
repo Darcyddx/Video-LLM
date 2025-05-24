@@ -18,17 +18,19 @@ If you find our work useful for your research, please cite the following paper:
 
 ```bibtex
 @inproceedings{10.1145/3701716.3717744,
-author={Ding, Xi and Wang, Lei},
-title={Do Language Models Understand Time?},
-year={2025},
-isbn={9798400713316},
+author = {Ding, Xi and Wang, Lei},
+title = {Do Language Models Understand Time?},
+year = {2025},
+isbn = {9798400713316},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
-url={https://doi.org/10.1145/3701716.3717744},
-doi={10.1145/3701716.3717744},
-keywords = {Language language models, Videos, Temporal, Interaction},
-location = {Sydney, NSW, Australia},
-series = {WWW '25 Companion}
+url = {https://doi.org/10.1145/3701716.3717744},
+doi = {10.1145/3701716.3717744},
+pages = {1855–1868},
+numpages = {14},
+keywords = {interaction, language language models, temporal, videos},
+location = {Sydney NSW, Australia},
+series = {WWW '25}
 }
 ```
 
